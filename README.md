@@ -20,3 +20,7 @@ $ git clone CHANGE_BY_THE_URL_OF_THE_REPO
 ```
 Once the repo has been cloned, a folder with the name of the repo can be seen in the local file system:<br/>
 ![Lab diagram](images/MQTT_4.jpg "Header Image")
+
+## Topic subscribe and publish
+Once the repo has been cloned, change to the downloaded directory and execute the following command:<br/>
+![Lab diagram](images/MQTT_5.jpg "Header Image")
