@@ -22,5 +22,14 @@ Once the repo has been cloned, a folder with the name of the repo can be seen in
 ![Lab diagram](images/MQTT_4.jpg "Header Image")
 
 ## Topic subscribe and publish
-Once the repo has been cloned, change to the downloaded directory and execute the following command, putting your assigned group ID:<br/>
+Change to the downloaded directory and execute the following command, putting your assigned group ID:<br/>
 ![Lab diagram](images/MQTT_5.jpg "Header Image")
+
+Then open another terminal and publish a message to the topic using the mosquitto_pub client:
+
+```
+$ mosquitto_pub -h broker.hivemq.com -p 1883 -t "icai/group_1" -m "Hola mundo"
+```
+
+Upon success, the subscribed snippet should see a message as shown below:<br/>
+![Lab diagram](images/MQTT_6.jpg "Header Image")
