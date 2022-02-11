@@ -22,5 +22,5 @@ Once the repo has been cloned, a folder with the name of the repo can be seen in
 ![Lab diagram](images/MQTT_4.jpg "Header Image")
 
 ## Topic subscribe and publish
-Once the repo has been cloned, change to the downloaded directory and execute the following command:<br/>
+Once the repo has been cloned, change to the downloaded directory and execute the following command, putting your assigned group ID:<br/>
 ![Lab diagram](images/MQTT_5.jpg "Header Image")
