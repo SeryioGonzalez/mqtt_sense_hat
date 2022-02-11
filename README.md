@@ -10,3 +10,9 @@ Finally, we will integrate both scripts, so the message published to the topic i
 ## Clone the repo
 The first thing you need to do is opening a terminal in your Raspberry Pi, as shown in the following image:<br/>
 ![Lab diagram](images/MQTT_2.png "Header Image")
+
+From there, clone the repo by using the following command:
+''
+ls -l
+
+''
