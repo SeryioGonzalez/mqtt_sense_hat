@@ -18,4 +18,5 @@ In your terminal, launch the following command
 ```
 $ git clone CHANGE_BY_THE_URL_OF_THE_REPO
 ```
-Once the repo
+Once the repo has been cloned, a folder with the name of the repo can be seen in the local file system:<br/>
+![Lab diagram](images/MQTT_4.jpg "Header Image")
