@@ -12,7 +12,6 @@ The first thing you need to do is opening a terminal in your Raspberry Pi, as sh
 ![Lab diagram](images/MQTT_2.png "Header Image")
 
 From there, clone the repo by using the following command:
-''
+```
 ls -l
-
-''
+```
