@@ -11,7 +11,10 @@ Finally, we will integrate both scripts, so the message published to the topic i
 The first thing you need to do is opening a terminal in your Raspberry Pi, as shown in the following image:<br/>
 ![Lab diagram](images/MQTT_2.png "Header Image")
 
-From there, clone the repo by using the following command:
+From there, clone the repo. You can obtain the URL of the repo as shown in the following image:<br/>
+![Lab diagram](images/MQTT_3.jpg "Header Image")
+
+In your terminal, launch the following command
 ```
-ls -l
+git clone CHANGE_BY_THE_URL_OF_THE_REPO
 ```
