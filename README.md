@@ -16,5 +16,5 @@ From there, clone the repo. You can obtain the URL of the repo as shown in the f
 
 In your terminal, launch the following command
 ```
-git clone CHANGE_BY_THE_URL_OF_THE_REPO
+$ git clone CHANGE_BY_THE_URL_OF_THE_REPO
 ```
