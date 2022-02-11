@@ -18,3 +18,4 @@ In your terminal, launch the following command
 ```
 $ git clone CHANGE_BY_THE_URL_OF_THE_REPO
 ```
+Once the repo
